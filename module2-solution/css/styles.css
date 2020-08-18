@@ -7,6 +7,7 @@
 h1{
     text-align: center;
     margin: 40px 0px;
+    font-size: 3em;
 }
 
 .row{
@@ -56,6 +57,7 @@ p{
     margin-top: 0px;
     margin-bottom: 20px;
     border: 1px solid black;
+    font-size: 1.25em;
 }
 
 #p1{
